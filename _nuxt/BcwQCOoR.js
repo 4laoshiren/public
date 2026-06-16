@@ -1,0 +1,1 @@
+import{o,c as s,y as a}from"./DU7H8brz.js";const n=["href"],f={__name:"ProseA",props:["href"],setup(e){const r=e;return(t,c)=>(o(),s("a",{href:r.href,target:"_blank",class:"hover:underline text-[#2e4c72]"},[a(t.$slots,"default")],8,n))}};export{f as default};

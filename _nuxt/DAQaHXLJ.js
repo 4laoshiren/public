@@ -1,0 +1,1 @@
+import{o,c,a as e,t as s,F as r}from"./DU7H8brz.js";const n={class:"mb-1 text-2xl"},i={class:"mb-6 italic"},m={__name:"AppHeader",props:["title","description"],setup(a){const t=a;return(p,l)=>(o(),c(r,null,[e("h1",n,s(t.title),1),e("p",i,s(t.description),1)],64))}};export{m as _};
